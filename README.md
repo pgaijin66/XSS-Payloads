@@ -5,5 +5,7 @@
 
 List of XSS that was compiled for public use. You can use it as a payload for your scanners
 
-Let's connect: https://keybase.io/pgaijin66
+
+### Note
+Hi folks, I have started to start making videos, please subscribe for more DevOps/SRE and infosec stuffs: https://www.youtube.com/c/ShardedSRE
 
