@@ -5,4 +5,6 @@
 
 List of XSS that was compiled for public use. You can use it as a payload for your scanners
 
-Let's connect [pgaijin66](https://twitter.com/pgaijin66)
+### Disclaimer
+
+This information is provided for public use. I will not be held liable for any kind of malicious use of the above code.
